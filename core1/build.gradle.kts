@@ -49,7 +49,7 @@ afterEvaluate {
                 from(components["release"])
 
                 groupId = "com.github.Andrew2120"
-                artifactId = "core2"
+                artifactId = "core1"
                 version = "1.0"
             }
         }
